@@ -10,10 +10,10 @@ cd TK-TOOL
 
 
 
-chmod +x tk-tool.py
+chmod +x setup.sh
 
 
 
-./tk-tool.py
+./setup.sh : or : .\setup.bat
 
 # Enjoy
