@@ -14,6 +14,6 @@ chmod +x setup.sh
 
 
 
-./setup.sh : or : .\setup.bat
+./setup.sh  or  .\setup.bat
 
 # Enjoy
